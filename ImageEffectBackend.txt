@@ -1,0 +1,7 @@
+'Oct 23,2024 14:33:41 pm' download.png hueSaturation saturation-75.0,hue-32.0
+'Oct 23,2024 14:35:03 pm' download.png hueSaturation saturation-100.0,hue-0.0
+'Oct 23,2024 14:39:41 pm' download.png brightness brightness-158.0
+'Oct 23,2024 14:40:20 pm' result_image (17).png flip Horizantal-False,Vertical-True
+'Oct 23,2024 14:40:25 pm' result_image (17).png flip Horizantal-True,Vertical-True
+'Oct 23,2024 14:40:41 pm' result_image (17).png sharpen sharpen-100.0
+'Oct 23,2024 14:41:02 pm' result_image (17).png gaussian gaussian-42.0
